@@ -4,7 +4,7 @@ A sleek, animation-rich single-page website for a blockchain platform, designed 
 
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 
-🔗 **Live Site:** [provenance-blockchain-riki.webflow.io](https://provenance-blockchain-riki.webflow.io)
+🔗 **Live Site:** [provenance-blockchain-vukasinriznic.webflow.io](https://provenance-blockchain-vukasinriznic.webflow.io)
 
 ---
 
@@ -46,7 +46,7 @@ A high-quality, one-page landing page built for a blockchain product. The site f
 
 ## 🔗 Live Demo
 
-👉 [View Live Site](https://provenance-blockchain-riki.webflow.io)
+👉 [View Live Site](https://provenance-blockchain-vukasinriznic.webflow.io)
 
 ---
 
